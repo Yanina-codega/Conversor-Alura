@@ -9,3 +9,4 @@ Este conversor permite las siguientes conversiones.
 3. Dolar ➡️ Peso Brasilero
 4. Yen ➡️ Peso Argentino
 
+Al seleccionar una de las opciones realizara la conversion correspondiente.
